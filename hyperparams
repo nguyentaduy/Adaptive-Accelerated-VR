@@ -1,0 +1,13 @@
+dataset,loss,SVRG,SVRG++,VARAG,SARAH,VRADA,AdaVRAE_NA,AdaVRAG3_NA
+a1a,log,0.5,0.5,1,0.1,1,1,1
+a1a,squared,0.01,0.05,0.05,0.01,0.1,0.05,0.1
+a1a,huber,0.05,0.1,0.1,0.05,0.5,0.1,0.1
+mushrooms,log,0.5,1,1,0.1,1,1,1
+mushrooms,squared,0.01,0.01,0.05,0.01,0.1,0.01,0.05
+mushrooms,huber,0.05,0.1,0.1,0.01,0.1,0.05,0.1
+w8a,log,0.1,1,1,0.1,100,5,5
+w8a,squared,0.01,0.01,0.01,0.01,100,0.05,0.05
+w8a,huber,0.01,0.1,0.1,0.01,100,0.5,0.1
+phishing,log,50,100,100,50,100,100,100
+phishing,squared,0.05,0.5,1,0.05,1,1,1
+phishing,huber,0.5,1,1,0.1,5,5,5
